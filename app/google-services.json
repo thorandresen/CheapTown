@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "248515108162",
+    "firebase_url": "https://billigbytur-3c57a.firebaseio.com",
+    "project_id": "billigbytur-3c57a",
+    "storage_bucket": "billigbytur-3c57a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248515108162:android:c0126a47e58efe47",
+        "android_client_info": {
+          "package_name": "com.example.dhor.billigbytur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248515108162-5s57ovqcg8ttp1jf3cfgr8l69kcof0g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhor.billigbytur",
+            "certificate_hash": "eb75ae340e772a00d5c1c6b8094a3ce6a4520ca3"
+          }
+        },
+        {
+          "client_id": "248515108162-nccm5uq8c23drjotllusfpabjq4g41j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIJWZd1HuS-8wG0YQ3W2zQ0Ncea7eyuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248515108162-nccm5uq8c23drjotllusfpabjq4g41j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

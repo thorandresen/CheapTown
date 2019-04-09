@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BilligBytur</string>
+    <string name="title_activity_home_screen">CheapTown</string>
+    <string name="title_home">Bars</string>
+    <string name="title_map">Map</string>
+    <string name="title_profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="barName">Name</string>
+    <string name="barAddress">Address</string>
+    <string name="barOffers">Offers</string>
+    <string name="people_bar">How many people in bar?</string>
+    <string name="postalError">Danish postal codes are between 1000-3799 and 4000-9999.</string>
+    <string name="postalEmpty">Please enter postal code</string>
+    <string name="mNameEmpty">Please enter name</string>
+    <string name="addressEmpty">Please enter address</string>
+    <string name="name_too_long">Name can\'t be longer than 64 characters</string>
+    <string name="only_letters_address">Address should only contain letters</string>
+    <string name="address_too_long">Address can\'t be longer than 64 characters</string>
+    <string name="adress_number_bigger">Number must be greater than 0</string>
+    <string name="bar_closed">CLOSED</string>
+</resources>
